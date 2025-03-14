@@ -22,7 +22,7 @@ def test_divide():
 
 @pytest.mark.square_test
 def test_square_area():
-    assert square_area(10) == 71  # Using last two digits of my student ID - 100979071
+    assert square_area(71) == 5041  # Using last two digits of my student ID - 100979071
     
 
 
